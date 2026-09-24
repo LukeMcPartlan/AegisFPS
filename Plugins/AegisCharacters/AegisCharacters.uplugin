@@ -1,0 +1,1 @@
+{"Category":"Aegis","CreatedBy":"RolyatWorks","Description":"Playable character definitions and creation-menu data. Appearance is data-driven; adding a character is a new asset, zero code.","FileVersion":3,"FriendlyName":"Aegis Characters","Modules":[{"LoadingPhase":"Default","Name":"AegisCharacters","Type":"Runtime"}],"Version":1,"VersionName":"1.0"}

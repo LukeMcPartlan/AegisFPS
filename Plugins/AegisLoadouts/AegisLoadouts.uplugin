@@ -1,0 +1,1 @@
+{"Category":"Aegis","CreatedBy":"RolyatWorks","Description":"CoD-style loadout definitions: 1 character + 2 abilities + (main/offhand XOR two-handed) + secondary. Enforces the weapon-combo rule.","FileVersion":3,"FriendlyName":"Aegis Loadouts","Modules":[{"LoadingPhase":"Default","Name":"AegisLoadouts","Type":"Runtime"}],"Version":1,"VersionName":"1.0"}

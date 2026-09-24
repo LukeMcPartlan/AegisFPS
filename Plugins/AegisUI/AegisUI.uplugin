@@ -1,0 +1,1 @@
+{"Category":"Aegis","CreatedBy":"RolyatWorks","Description":"Player-facing UI: WoW-style character creation menu and CoD-style loadout menu (phase 3).","FileVersion":3,"FriendlyName":"Aegis UI","Modules":[{"LoadingPhase":"Default","Name":"AegisUI","Type":"Runtime"}],"Version":1,"VersionName":"1.0"}

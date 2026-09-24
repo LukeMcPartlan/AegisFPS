@@ -1,0 +1,1 @@
+{"Category":"Aegis","CreatedBy":"RolyatWorks","Description":"Projectile-only weapon framework. No hitscan: every weapon spawns replicated physics projectiles (AAegisProjectile).","FileVersion":3,"FriendlyName":"Aegis Weapons","Modules":[{"LoadingPhase":"Default","Name":"AegisWeapons","Type":"Runtime"}],"Version":1,"VersionName":"1.0"}
