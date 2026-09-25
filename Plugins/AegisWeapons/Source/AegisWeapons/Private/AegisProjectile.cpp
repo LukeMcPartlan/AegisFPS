@@ -8,7 +8,7 @@
 AAegisProjectile::AAegisProjectile()
 {
 	bReplicates = true;
-	bReplicateMovement = true;
+	SetReplicateMovement(true);
 
 	CollisionComp = CreateDefaultSubobject<USphereComponent>(TEXT("Collision"));
 	CollisionComp->InitSphereRadius(8.f);
