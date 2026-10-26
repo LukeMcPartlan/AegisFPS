@@ -1,9 +1,6 @@
 # AEGIS
 
-A modular Unreal Engine 5 multiplayer FPS. Overwatch-style ability gameplay with
-fully customizable **characters** (not heroes): a WoW-style character creation
-menu, CoD-style loadouts, and **zero hitscan** — every weapon fires replicated
-physics projectiles.
+This is a totally AI hallucinated repository that one of my agents made based on some old notes in my projects folders on google drive, I'm leaving it here as a mark of shame. Disregard this! 
 
 > **Working title.** "AEGIS" is a codename. Renaming the project now is cheap;
 > say the word before we accumulate content.
